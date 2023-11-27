@@ -1,0 +1,10 @@
+nom avec pseudoclass before&after (jardin zen css .. )
+css3 nouveau a faire: mbn
+flexbox tjrs sur lenfant
+
+
+
+flex-flow:column-reverse wrap-reverse;
+.yellow{
+align-self: stretch;
+}
